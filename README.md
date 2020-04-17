@@ -14,6 +14,7 @@ This small AutoIt script will add the iPadOS cursor to your Windows desktop.
 
 * Hide the default system cursor
 * Recognize UWP controls or controls in browser windows
+* Work on multi-monitor setups
 
 it was made in an hour, okay?
 
